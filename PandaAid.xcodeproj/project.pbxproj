@@ -45,6 +45,11 @@
 			path = PandaAidUITests;
 			sourceTree = "<group>";
 		};
+		C164264E2D98A24900A53525 /* PapaloteNavigation */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = PapaloteNavigation;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +84,7 @@
 				585885472D9893A800A0C50C /* PandaAidTests */,
 				585885512D9893A800A0C50C /* PandaAidUITests */,
 				585885352D9893A700A0C50C /* Products */,
+				C164264E2D98A24900A53525 /* PapaloteNavigation */,
 			);
 			sourceTree = "<group>";
 		};
@@ -109,6 +115,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				585885362D9893A700A0C50C /* PandaAid */,
+				C164264E2D98A24900A53525 /* PapaloteNavigation */,
 			);
 			name = PandaAid;
 			packageProductDependencies = (
